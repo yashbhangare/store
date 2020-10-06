@@ -194,6 +194,7 @@ button.w3view-cart:focus{
     float: left;
     margin-top: 0.6em;
     width: 33.33%;
+	background-image:url("images/logo_at.JPG");
 }
 .w3ls_logo_products_left1 ul.phone_email li{
 	display:inline-block;
